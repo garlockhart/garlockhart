@@ -5,6 +5,6 @@ My name is Garly Nugraha, you can call me Garly or Garlock. I am a software deve
 
 
 ### Find me on 🌎:
-- Website <a href="https://www.garlynugraha.com">garlockhart.com</a>
+- Learning in public on <a href="https://www.garlockhart.com">garlockhart.com</a> and <a href="https://medium.com/@garlockhart">Medium</a>
 - Discuss with <a href="https://instagram.com/garlockhart">Instagram</a>
 
