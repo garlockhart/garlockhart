@@ -8,4 +8,3 @@ My name is Garly Nugraha, you can call me Garly or Garlockhart. I am a software 
 - Discuss with <a href="https://instagram.com/garlockhart">Instagram</a> and <a href="https://twitter.com/garlockhart">Twitter</a>
 
 [![Garlockhart's GitHub stats](https://github-readme-stats.vercel.app/api?username=garlockhart&show_icons=true&theme=tokyonight)](https://github.com/garlockhart/garlockhart)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garlockhart&layout=compact&theme=tokyonight)](https://github.com/garlockhart/garlockhart)
