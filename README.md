@@ -1,4 +1,6 @@
 [![Garlockhart's GitHub stats](https://github-readme-stats.vercel.app/api?username=garlockhart&show_icons=true&theme=tokyonight)](https://github.com/garlockhart/garlockhart)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garlockhart&layout=compact)](https://github.com/garlockhart/garlockhart)
+
 
 # Hi, Coders! 👋
 
