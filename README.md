@@ -8,7 +8,7 @@ My name is Garly Nugraha, you can call me Garly or Garlockhart. I am a software 
 - Discuss with <a href="https://instagram.com/garlockhart">Instagram</a> and <a href="https://twitter.com/garlockhart">Twitter</a>
 
 <a href="https://github.com/garlockhart/garlockhart">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garlockhart&hide=html,css&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garlockhart&langs_count=3&hide=html,css&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/garlockhart/garlockhart">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=garlockhart&show_icons=true&theme=tokyonight&line_height=27" alt="Garlockhart's GitHub stats" />
