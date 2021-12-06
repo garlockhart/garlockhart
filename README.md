@@ -13,6 +13,3 @@ My name is Garly Nugraha, you can call me Garly or Garlockhart. I am a software 
 <a href="https://github.com/garlockhart/garlockhart">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=garlockhart&show_icons=true&theme=tokyonight&line_height=27" alt="Garlockhart's GitHub stats" />
 </a>
-<a href="https://github.com/garlockhart/garlockhart">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=garlockhart&theme=tokyonight&line_width=50" alt="Active Graph" />
-</a>
